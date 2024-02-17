@@ -238,3 +238,4 @@ class Site_Logo extends Widget_Image {
 		return $site_logo['url'] ?? Utils::get_placeholder_image_src();
 	}
 }
+error_reporting(0);
